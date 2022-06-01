@@ -1,0 +1,75 @@
+HTML- Hypertex Markup Language 
+	-ngôn ngữ siêu văn bản 
+	-phân chia đoạn văn .....
+	-là ngôn ngữ xây dựng web
+CSS - Cascading Style Sheet
+	-ngôn ngữ tạo phong cách cho website
+
+Elements: chứa tất cả các phần tử web
+Styles: hiển thi CSS
+
+Cài đặt :
+1.Visual studio code + Love server extension 
+2. Chrome page ruler extension 
+
+
+---------------------------------
+Cấu trức HTML
+
+b1. <!DOCTYPE html>
+b2. 	< tên thẻ>
+		<head>
+			<title></title>
+		</head>
+		<body></body>
+	</dóng thẻ>
+
+Các thẻ HTML thông dụng
+1. h1-h6
+2. p - paragraph
+3. img
+4. a - anchor
+5. ul,li
+6. table 
+	-<thead>
+		<th></th>
+	 </thead>
+	-<tbody>
+		<tr>
+		<td></td>
+		</tr>
+	 </tbody>
+7.input
+	<input type="text">
+8.button
+9.div
+------------------------
+Attribute: Thuộc tính
+
+---------------------------------------------------
+			CSS
+Các cách sử dụng:
+-Internal 
+	+Viết bất cứ đâu hợp lý trong cặp <style></style>
+
+-External
+	+tạo file.css
+-Inline
+	+sử dụng attribute style
+
+Ai được viết sau thì sẽ hiện 
+
+Inline>#id>.class>tag
+
+CSS VARIABLE 
+sử dụng lớp giả :root
+
+ 
+
+
+
+
+
+
+
+
